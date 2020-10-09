@@ -12,7 +12,7 @@
     "orm",
     "node-web"
   ],
-  "homepage": "https://github.com/kuangshp/node-auth0",
+  "homepage": "https://github.com/kuangshp/typeorm-model-generator-cli",
   "author": "kuangshp@126.com",
   "license": "MIT",
   "dependencies": {
